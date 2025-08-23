@@ -11,71 +11,61 @@ luaotfload = {}
 ------------------------------------------------------------------------
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.add_colorscheme() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.add_fallback() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.add_multiscript() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.apply_default_features() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.define_font() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.get_script_mark() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.main() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.set_colorhandler() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.set_transparent_colorstack() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function luaotfload.set_transparenthandler() end

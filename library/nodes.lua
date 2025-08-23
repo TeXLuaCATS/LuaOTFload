@@ -11,22 +11,19 @@ nodes = {}
 ------------------------------------------------------------------------
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function nodes.simple_font_handler() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function nodes.tonode() end
 
 ---
----Warning! Undocumented code!<p>
----TODO: Please contribute
+---Warning! Undocumented code!<p> TODO: Please contribute
 ---
 ---{{ contribute }}
 function nodes.tonut() end
